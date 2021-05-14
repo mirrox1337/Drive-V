@@ -1,2 +1,1 @@
-# Drive-V
-(Realistic Driving / Car Handling &amp; Damage) for FiveM
+Credit: https://www.gta5-mods.com/vehicles/drive-v-realistic-driving-car-handling
