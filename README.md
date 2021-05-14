@@ -5,4 +5,5 @@
 
 > Power levels and acceleration have been adjusted to match vehicles' real world counterparts, to the extent of calculating the net SAE horsepower ratings of old muscle cars that used a different rating standard (SAE gross) to determine a true realistic power output. Off-road traction has been overhauled for realism. Damage/deformation has been increased to a realistic level, similar to GTAIV. Downforce has been removed from everything except supercars that would actually produce downforce. Finally, the original game had many cars sitting at unusually low ride heights, so they have been raised to reflect the ride heights of their real world counterparts. 
 
-## Convertet to FiveM by Me
+## Convertet to FiveM by Mirrox1337
+[GitHub](http://github.com/mirrox1337)
